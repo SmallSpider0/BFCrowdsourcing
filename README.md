@@ -41,6 +41,8 @@
 
 ## How to deploy and test BFCrowdsourcing locally
 
+Tested on macOS 14.1.2
+
 ### 1. Clone the souce code
 
 ```bash
