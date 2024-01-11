@@ -105,6 +105,7 @@ class SystemInterfaceLocal:
             randomizer_accounts,
         ) = self.__assign_bc_accounts()
         # 3.部署智能合约
+        print("__deploying smart contract")
         contract_address, contract_abi = self.__deploy_contract(requester_account)
         # 4.初始化所有节点
         print("__init_all_nodes")

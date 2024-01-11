@@ -183,7 +183,8 @@ class ContractInterface:
                     fromBlock="0x0"
                 )
                 time.sleep(1)
-            except:
+            except Exception as e:
+                print(e)
                 print("event_filter create error")
             else:
                 if event_filter and hasattr(event_filter, "filter_id"):

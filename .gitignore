@@ -8,14 +8,12 @@ envs/logs/*
 # tmp
 test.py
 tmp/*
+!tmp/keypairs
 !tmp/.gitkeep
 !tmp/IPFS_downloads/.gitkeep
 !tmp/IPFS_uploads/.gitkeep
-!tmp/keypairs/.gitkeep
 !tmp/.gitkeep
 
-# config
-config/server_list.json
 
 # macos
 .DS_Store

@@ -22,12 +22,6 @@ import random
 import threading
 
 
-# TODO: 启动一个服务器 接收客户端的请求 并启停对应的节点 用于远程部署
-# 功能：接收（节点类型、节点参数列表）
-
-# TODO: 实现使用ssh自动进行远程部署
-
-
 class Manager:
     def __init__(self, port):
         self.port = port
