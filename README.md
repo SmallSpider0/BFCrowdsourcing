@@ -43,7 +43,7 @@
 
 Tested on macOS 14.1.2, to run on other platforms please:
 
-For IPFS, download the binary file from https://github.com/ipfs/kubo/releases/tag/v0.25.0ge and replace the file envs/ipfs/bin/ipfs
+For IPFS, download the binary file from https://github.com/ipfs/kubo and replace the file envs/ipfs/bin/ipfs
 
 For Ethereum, download the binary file from https://geth.ethereum.org/downloads and replace the file envs/mychain/geth
 
