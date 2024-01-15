@@ -77,7 +77,7 @@ Final output
 event/TASK_END
 ```
 
-### 4. Stop the enviroment (in terminal 2)
+### 4. Stop the enviroment (in terminal 1)
 ```bash
 ./start_env.sh down
 ```
