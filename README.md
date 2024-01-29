@@ -1,5 +1,7 @@
 # BFCrowdsourcing
- 
+
+BFCS is a novel framework designed to counteract submitter bribery in crowdsourcing. Inspired by receipt-free electronic voting systems, BFCS utilizes a decentralized secure re-encryption protocol to anonymize submissions, thereby eliminating bribery risks by detaching them from submitter identities. 
+
 - **config**
   - bc_keys.json: Blockchain accounts for testing
   - config.yaml: Config file for the project
